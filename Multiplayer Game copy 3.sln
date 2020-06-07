@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Game copy 3", "Assembly-CSharp.csproj", "{12503EB5-8C25-505D-70C2-229CD6718096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Game copy 3", "Assembly-CSharp-Editor.csproj", "{7DBC2B22-DFB5-490D-D753-2E2E1761A19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12503EB5-8C25-505D-70C2-229CD6718096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12503EB5-8C25-505D-70C2-229CD6718096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12503EB5-8C25-505D-70C2-229CD6718096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12503EB5-8C25-505D-70C2-229CD6718096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBC2B22-DFB5-490D-D753-2E2E1761A19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBC2B22-DFB5-490D-D753-2E2E1761A19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBC2B22-DFB5-490D-D753-2E2E1761A19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBC2B22-DFB5-490D-D753-2E2E1761A19E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
